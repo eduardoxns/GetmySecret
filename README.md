@@ -55,7 +55,7 @@ http://getmysecret.s3-website-us-east-1.amazonaws.com
 
 > :link: **LINK GERADO** --> Após gerar a senha, escolher o tempo de vida do segredo e clicar no botão "CRIAR SEGREDO"
 
-> :warning: **O BOTÃO "COPIAR LINK" ATUALMENTE NÃO FUNCIONA, POIS O SITE NÃO POSSUÍ PROTOCOLO HTTP**
+> :warning: **O BOTÃO "COPIAR LINK" ATUALMENTE NÃO FUNCIONA, POIS O SITE NÃO POSSUÍ PROTOCOLO HTTPS**
 
 <br>
 
